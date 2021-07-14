@@ -1,0 +1,7 @@
+export const VALUE_CHANGE = "VALUE_CHANGE"
+export const CLEAR = "CLEAR"
+export const RESULT = "RESULT"
+export const IN_PERCENT = "IN_PERCENT"
+export const POS_NEG = "POSITIVE_NEGATIVE"
+export const CALC_ACTIONS = "CALCULATOR_ACTIONS"
+export const DECIMAL = "VALUE_DECIMAL"
